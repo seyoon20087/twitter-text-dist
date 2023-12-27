@@ -3,6 +3,7 @@
   "version": "999.9.9",
   "description": "dist package for the `twitter-text` library (umd,esm)",
   "main": "twitter-text.umd.js",
+  "module": "twitter-text.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
